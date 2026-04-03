@@ -33,8 +33,11 @@ Apostila com os conceitos e funcionalidades introduzidos no ECMAScript 6, como `
 
 | Nome | Repositório |
 |------|-------------|
+| Alessandra Wilsmann | [github.com/AleWilsmann/senac-_aprendendo_git](https://github.com/AleWilsmann/senac-_aprendendo_git) |
 | Allan Odelir Favero | [github.com/Allan3o/frontend](https://github.com/Allan3o/frontend) |
 | Arthur Henrique Prudente | [github.com/ArthurPrudente2006/meu-projeto-web](https://github.com/ArthurPrudente2006/meu-projeto-web.git) |
 | Bernardo Augusto Saatkamp Ribeiro | [github.com/bernardoribeiro17/desafio_pratico](https://github.com/bernardoribeiro17/desafio_pratico/) |
 | Emerson Machado | [github.com/ehmaxado/meu-projeto-web](https://github.com/ehmaxado/meu-projeto-web/) |
+| Guilherme Hartmann | [github.com/Gui943/atividade-02-03-2026-frontend.git](https://github.com/Gui943/atividade-02-03-2026-frontend.git) |
 | Lázaro Piola Schaurich | [github.com/laza-ro/senac_ads_26_02_26](https://github.com/laza-ro/senac_ads_26_02_26.git) |
+| Lucas Fornari | [github.com/lucasfornari/meu-projeto-web](https://github.com/lucasfornari/meu-projeto-web) |
