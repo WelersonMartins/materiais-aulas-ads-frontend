@@ -11,8 +11,13 @@ materiais-aulas-ads-frontend/
 │   ├── Ferramentas_Desenvolvimento_Frontend.docx
 │   ├── Ferramentas_Desenvolvimento_Frontend.pdf
 │   └── slides_aula2_ferramentas_desenvolvimento.pptx
-└── Aula3/
-    └── Apostila_ES6_ECMAScript6.docx
+├── Aula3/
+│   ├── apostila_aula3_sass_css_avancado.docx
+│   └── exemplos/                          # Projetos práticos com Vite + SCSS
+├── Aula4/
+│   └── Apostila_ES6_ECMAScript6.docx
+└── Aula5/
+    └── Apostila_TypeScript.docx
 ```
 
 ## Conteúdo
@@ -20,8 +25,14 @@ materiais-aulas-ads-frontend/
 ### Aula 2 — Ferramentas de Desenvolvimento Frontend
 Apresentação e material sobre as principais ferramentas utilizadas no desenvolvimento front-end moderno.
 
-### Aula 3 — ES6 / ECMAScript 6
-Apostila com os conceitos e funcionalidades introduzidos no ECMAScript 6, como `let`/`const`, arrow functions, modules, classes, e mais.
+### Aula 3 — SASS e CSS Avançado
+Apostila e exemplos práticos sobre SASS/SCSS: variáveis, nesting, parciais, mixins e CSS Custom Properties. Os exemplos interativos estão em `Aula3/exemplos/` (projetos Node.js com Vite).
+
+### Aula 4 — ES6 / ECMAScript 6
+Apostila com os conceitos e funcionalidades introduzidos no ECMAScript 6, como `let`/`const`, arrow functions, destructuring, spread/rest, modules, classes, Promises e mais.
+
+### Aula 5 — TypeScript
+Apostila introdutória ao TypeScript: tipagem estática, interfaces, tipos primitivos e compostos, generics, enums, decorators e integração com projetos JavaScript modernos.
 
 ## Sobre o Curso
 
