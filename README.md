@@ -50,5 +50,9 @@ Apostila introdutória ao TypeScript: tipagem estática, interfaces, tipos primi
 | Bernardo Augusto Saatkamp Ribeiro | [github.com/bernardoribeiro17/desafio_pratico](https://github.com/bernardoribeiro17/desafio_pratico/) |
 | Emerson Machado | [github.com/ehmaxado/meu-projeto-web](https://github.com/ehmaxado/meu-projeto-web/) |
 | Guilherme Hartmann | [github.com/Gui943/atividade-02-03-2026-frontend.git](https://github.com/Gui943/atividade-02-03-2026-frontend.git) |
+|JOÃO PEDRO FUNES KELLER | https://github.com/JKellerrr/meu-projeto-web.git| 
+|JOHN DAVID DA MATA SILVA | https://github.com/JohnDM515/desenvolvimento-fron-end |
 | Lázaro Piola Schaurich | [github.com/laza-ro/senac_ads_26_02_26](https://github.com/laza-ro/senac_ads_26_02_26.git) |
 | Lucas Fornari | [github.com/lucasfornari/meu-projeto-web](https://github.com/lucasfornari/meu-projeto-web) |
+|LUIS FERNANDO GROTH ZAMPIERON | https://github.com/luiszampieron/senac-git-merge-example |
+| VÍTOR ALEXANDRE CAMPO ROMAN | https://github.com/vitorroman17/meu-projeto-web |
