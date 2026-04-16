@@ -34,10 +34,15 @@ body {
   @include centralizar-flex(row, 12px);
 }
 
+
 .botao-sucesso {
   @include botao-base(#0f8a5f);
 }
 
 .botao-alerta {
   @include botao-base(orange, white, 999px);
+}
+
+.botao-perigo {
+  @include botao-base(red, white, 0);
 }
